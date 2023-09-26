@@ -26,7 +26,7 @@ Students had to come up with their own unique questions and answer them using th
 
 ---
 
-### [Author:Julius Gudauskas ](AML_MP1_Gudauskas.ipynb)
+### [Author: Julius Gudauskas ](AML_MP1_Gudauskas.ipynb)
 
 ### Questions:
 

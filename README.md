@@ -1,4 +1,4 @@
-# Viral data science from October 2021
+# Viral data science from October 2022
 
 Here are some Python Jupyter data science notebooks from **October 2022** analyzing apenly available data.
 
